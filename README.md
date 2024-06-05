@@ -1,0 +1,2 @@
+# CleverBooks
+Static react app 
